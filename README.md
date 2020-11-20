@@ -6,4 +6,4 @@ Features
 - News Api feeding
 - SQL Lite
 - language
-- 
+
